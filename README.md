@@ -11,6 +11,7 @@ Kelas: **D3 Rekayasa Perangkat Lunak Aplikasi**
 - PHP **8.2.27**
 - Visual Studio Code
 - MySQL
+- POSTMAN
 
 ---
 
@@ -18,10 +19,7 @@ Kelas: **D3 Rekayasa Perangkat Lunak Aplikasi**
 
 1. Clone Repository
 2. Composer Install
-3. Membuat Database
-DB_DATABASE=lunar-api
-DB_USERNAME=root
-DB_PASSWORD=
+3. Membuat Database (lunar-api)
 4. php artisan migrate
 5. php artisan ser
 
