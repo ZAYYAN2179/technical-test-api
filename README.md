@@ -2,7 +2,7 @@
 
 Nama: **Muh Zayyan Al Thaaf Nur**  
 NIM: **607062330072**  
-Kelas: **D3 Rekayasa Perangkat Lunak Aplikasi**
+Jurusan: **D3 Rekayasa Perangkat Lunak Aplikasi**
 
 ---
 
