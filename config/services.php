@@ -34,5 +34,8 @@ return [
             'channel' => env('SLACK_BOT_USER_DEFAULT_CHANNEL'),
         ],
     ],
+    'payment' => [
+        'url' => env('PAYMENT_SERVICE_URL', 'http://127.0.0.1:8000'),
+    ],
 
 ];
