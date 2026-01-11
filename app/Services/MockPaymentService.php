@@ -3,11 +3,10 @@ declare(strict_types=1);
 
 namespace App\Services;
 
-class PaymentHttpClient
+class MockPaymentService
 {
-    public function createPayment(string $orderCode, int $amount): array
+    public function create(string $orderCode, int $amount): array
     {
-        // Simulasi HTTP Client ke Payment Gateway
         return [
             'order_code' => $orderCode,
             'amount' => $amount,
